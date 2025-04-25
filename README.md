@@ -38,7 +38,7 @@ O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações 
 
 1. Clone este repositório:
 
-   git clone https://github.com/seu-usuario/alura-store-analysis.git
+   git clone https://github.com/juliannebborges/alura-store-analysis.git
 
 2. Acesse o Google Colab e faça upload do notebook AluraStoreBr.ipynb
 
@@ -97,20 +97,22 @@ O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações 
     Visualização da pontuação total<br> 
  🕵️‍♂️ Parecer Final<br> 
     
-📝 Resultados e Recomendação
+##📝 Resultados e Recomendação
 
   Mediante análise detalhada, foi possível identificar qual loja apresenta o menor desempenho considerando:
 * Faturamento total
 * Satisfação dos clientes
 * Variedade de produtos
-* Eficiência de operação (fretes)<br>
+* Eficiência de operação (fretes)
+<br>
 O parecer final apresenta a recomendação sobre qual das unidades de negócio o sr. João deve vender encontra-se detalhada no encerramento do notebook.
+<br>
 
-📚 Autora
+##📚 Autora
 
    Juliane Borges, integrante do projeto ONE - Oracle Next Education.
 
-🙏 Agradecimentos
+##🙏 Agradecimentos
 
    Alura e Oracle Next Education pela oportunidade de aprendizado.
    Comunidade Alura pelos recursos e suporte.

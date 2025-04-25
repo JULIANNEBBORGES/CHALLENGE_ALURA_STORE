@@ -40,11 +40,11 @@ O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações 
 
    git clone https://github.com/seu-usuario/alura-store-analysis.git
 
-2. Acesse o Google Colab e faça upload do notebook AluraStore.ipynb
+2. Acesse o Google Colab e faça upload do notebook AluraStoreBr.ipynb
 
 3. Execute todas as células para visualizar a análise completa
 
-## Indice no Google Colab 
+## 🐍 Indice no Google Colab 
 
   Na IDE o desafio foi estruturado da seguinte forma:
   
@@ -104,7 +104,7 @@ O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações 
 * Satisfação dos clientes
 * Variedade de produtos
 * Eficiência de operação (fretes)<br>
-🕵️‍♂️ O parecer final apresenta a recomendação sobre qual das unidades de negócio o sr. João deve vender encontra-se detalhada no encerramento do notebook.
+O parecer final apresenta a recomendação sobre qual das unidades de negócio o sr. João deve vender encontra-se detalhada no encerramento do notebook.
 
 📚 Autora
 

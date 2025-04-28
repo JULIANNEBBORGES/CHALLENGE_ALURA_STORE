@@ -3,7 +3,8 @@ Esse projeto foi desenvolvido como parte do programa de ensino da Alura, em parc
 
 ## 📋 Descrição do Projeto
 
-O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações de 4 lojas fictícias da Alura Store auxiliando o Sr. João no processo decisório de comercialização de uma de suas lojas, visando o fomento de capital para iniciar um novo empreendimento. A análise identifica a loja com menor eficiência com base em diversos indicadores de desempenho.
+O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações de 4 lojas fictícias da Alura Store auxiliando o Sr. João no processo decisório de comercialização de uma de suas lojas, visando o fomento de capital para iniciar um novo empreendimento. A análise identifica a loja com menor eficiência com base em diversos indicadores de desempenho. <br>![image](https://github.com/user-attachments/assets/137e9b84-4e3b-4dc8-9f17-ea191130d43c)
+
 
 ## 🔍 Métricas Analisadas
 
@@ -82,6 +83,6 @@ O parecer final apresenta a recomendação sobre qual das unidades de negócio o
 
 ##🙏 Agradecimentos
 
-   Alura e Oracle Next Education pela oportunidade de aprendizado.
+   Alura e Oracle Next Education pela oportunidade de aprendizado.<br>
    Comunidade Alura pelos recursos e suporte.
 

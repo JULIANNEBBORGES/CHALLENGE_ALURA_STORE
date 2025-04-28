@@ -43,69 +43,37 @@ O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações 
 2. Acesse o Google Colab e faça upload do notebook AluraStoreBr.ipynb
 
 3. Execute todas as células para visualizar a análise completa
-
-## 🐍 Indice no Google Colab 
-
-  Na IDE o desafio foi estruturado da seguinte forma:
-  
-#👩‍💻 CHALLENGE ALURA STORE<br> 
-##👩‍💻 Data Science<br> 
-   🔗 link do challenge-alura-store plataforma Alura<br><br> 
-##👩‍💻 Preparação do ambiente<br> 
-    Importação das bibliotecas necessárias para resolução do desafio<br> 
-    Configurações para melhorar a visualização dos gráficos<br> 
-    Importação dos dados<br> 
-    Adicionando identificador para cada loja<br> 
-    Verificando a estrutura dos dados<br> 
-    Combinando os dados de todas as lojas<br> 
-    Verificando e Explorando os Dados Combinados<br> 
-    Resumo estatístico dos dados numéricos<br> 
-    Verificando valores ausentes<br><br> 
-##👩‍💻 Faturamento<br> 
-    Análise do faturamento<br> 
-    Criando função para calcular o faturamento total de cada loja<br> 
-    Visualização do faturamento através da função gráfico de barras<br><br> 
-##👩‍💻 Vendas por Categoria<br> 
-    Criando função para analisar vendas por categoria<br> 
-    Categoria mais vendida<br> 
-    Visualização das categorias por loja<br> 
-    Criando gráficos de pizza para as categorias mais vendidas em cada loja<br><br> 
-##👩‍💻 Média de Avaliação das Lojas<br> 
-    Criando função para calcular a média de avaliação por loja def calcular_avaliacao_media(dados)<br> 
-    Visualização da avaliação média<br><br> 
-##👩‍💻 Produtos Mais e Menos Vendidos<br> 
-    Top 5 produtos mais vendidos por loja<br> 
-    Produtos mais vendidos por loja - Visualização através do método Gráfico de barras<br> 
-    Top 5 produtos menos vendidos por loja<br> 
-    Produtos menos vendidos por loja - Função Heatmap<br><br> 
-##👩‍💻 Frete Médio por Loja<br> 
-    Criando função para calcular o frete médio por loja<br> 
-    Visualização do frete médio através da função gráfico de barras<br><br> 
-##👩‍💻 Resumo Comparativo das Lojas<br> 
-    Criando um dataframe de resumo para comparação<br> 
-    Adicionando a categoria mais vendida<br> 
-    Adicionando o produto mais vendido<br> 
-    Análise de Correlação - Correlação entre preço, frete e avaliação<br> 
-    Análise de faturamento por região (estado)<br><br> 
-##👩‍💻 Análise Geográfica<br> 
-    Verificando a distribuição geográfica das vendas<br><br> 
-##👩‍💻 Relatório Final e Recomendação<br> 
-    Identificação da loja com menor desempenho<br> 
-    Criando critérios para avaliação<br> 
-    Pontuação total (soma dos rankings)<br> 
-    Loja recomendada para venda (menor pontuação total)<br> 
-    Visualização da pontuação total<br> 
- 🕵️‍♂️ Parecer Final<br> 
     
-##📝 Resultados e Recomendação
+## 📝 Resultados e Recomendação
 
-  Mediante análise detalhada, foi possível identificar qual loja apresenta o menor desempenho considerando:
-* Faturamento total
-* Satisfação dos clientes
-* Variedade de produtos
+Mediante análise detalhada, foi possível identificar qual loja apresenta o menor desempenho considerando:
+* Faturamento total<br>
+⬇️ Visualização do faturamento através da função gráfico de barras.
+     ![image](https://github.com/user-attachments/assets/c220d74a-bf95-40b9-b39f-083b0d6705ca)
+
+* Satisfação dos clientes<br>
+    ![image](https://github.com/user-attachments/assets/653acb17-ad65-478c-9df6-78fcae1ef4b7)
+
+* Variedade de produtos<br>
+   ![image](https://github.com/user-attachments/assets/e67934c0-94c1-42ba-ac5c-06cc443c28d4)
+
+<br>⬇️ Sobre o gráfico:<br>
+
+Cada barra representa uma categoria de produto, e a altura da barra representa a quantidade de vendas. As cores diferentes das barras representam as as quatro unidades de negócio do sr. João.
+A respresenta visual possibilita, facilmente, comparar as vendas de cada categoria de produto em cada loja e identificar quais produtos são mais populares em cada uma delas.
+Uma avaliação visual identifica que quando a variável target é a categoria móveis o ranking das lojas com maior venda é a loja 3.
+Ao analisar a categoria eletrônicos, as lojas 3 e 4 apresentam vendas bem similares.
+
+<br>⬇️ Criando gráficos de pizza para as categorias mais vendidas em cada loja.<br>
+   ![image](https://github.com/user-attachments/assets/077ee97a-3214-4635-8512-c72743b5563e)
+
+<br>⬇️ Produtos menos vendidos por loja - Função Heatmap<br>
+   ![image](https://github.com/user-attachments/assets/b53638ed-f02c-4d39-9b65-579e0375c21e)
+
 * Eficiência de operação (fretes)
-<br>
-O parecer final apresenta a recomendação sobre qual das unidades de negócio o sr. João deve vender encontra-se detalhada no encerramento do notebook.
+   ![image](https://github.com/user-attachments/assets/a5fb9b66-8429-46e8-852a-e998312f76d7)
+
+O parecer final apresenta a recomendação sobre qual das unidades de negócio o sr. João deve vender, encontra-se detalhada no encerramento do notebook.
 <br>
 
 ##📚 Autora

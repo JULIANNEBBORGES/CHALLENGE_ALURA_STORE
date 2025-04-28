@@ -38,7 +38,7 @@ O objetivo deste projeto é analisar dados de vendas, desempenho e avaliações 
 
 1. Clone este repositório:
 
-   git clone https://github.com/juliannebborges/alura-store-analysis.git
+   git clone https://github.com/JULIANNEBBORGES/CHALLENGE_ALURA_STORE
 
 2. Acesse o Google Colab e faça upload do notebook AluraStoreBr.ipynb
 
